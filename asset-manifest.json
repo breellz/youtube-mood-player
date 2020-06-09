@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/youtube-mood-player/static/css/main.463d1b71.chunk.css",
-    "main.js": "/youtube-mood-player/static/js/main.a01c531d.chunk.js",
-    "main.js.map": "/youtube-mood-player/static/js/main.a01c531d.chunk.js.map",
+    "main.js": "/youtube-mood-player/static/js/main.9c4866d1.chunk.js",
+    "main.js.map": "/youtube-mood-player/static/js/main.9c4866d1.chunk.js.map",
     "runtime-main.js": "/youtube-mood-player/static/js/runtime-main.236e0fcb.js",
     "runtime-main.js.map": "/youtube-mood-player/static/js/runtime-main.236e0fcb.js.map",
     "static/js/2.e6c70c41.chunk.js": "/youtube-mood-player/static/js/2.e6c70c41.chunk.js",
     "static/js/2.e6c70c41.chunk.js.map": "/youtube-mood-player/static/js/2.e6c70c41.chunk.js.map",
     "index.html": "/youtube-mood-player/index.html",
-    "precache-manifest.a1e210a72642dce7be7048badbfcce02.js": "/youtube-mood-player/precache-manifest.a1e210a72642dce7be7048badbfcce02.js",
+    "precache-manifest.faf346c764c54c5ddffc0a067df2bb3c.js": "/youtube-mood-player/precache-manifest.faf346c764c54c5ddffc0a067df2bb3c.js",
     "service-worker.js": "/youtube-mood-player/service-worker.js",
     "static/css/main.463d1b71.chunk.css.map": "/youtube-mood-player/static/css/main.463d1b71.chunk.css.map",
     "static/js/2.e6c70c41.chunk.js.LICENSE.txt": "/youtube-mood-player/static/js/2.e6c70c41.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.236e0fcb.js",
     "static/js/2.e6c70c41.chunk.js",
     "static/css/main.463d1b71.chunk.css",
-    "static/js/main.a01c531d.chunk.js"
+    "static/js/main.9c4866d1.chunk.js"
   ]
 }

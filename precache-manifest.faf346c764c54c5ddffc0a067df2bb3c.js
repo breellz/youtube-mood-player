@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36f886db4e57f6cd8db484e21fc0a616",
+    "revision": "122ba22e9801262855578998a82a4906",
     "url": "/youtube-mood-player/index.html"
   },
   {
-    "revision": "8bfa48eeb5686abdc908",
+    "revision": "971de21e8a85a4bc2775",
     "url": "/youtube-mood-player/static/css/main.463d1b71.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youtube-mood-player/static/js/2.e6c70c41.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8bfa48eeb5686abdc908",
-    "url": "/youtube-mood-player/static/js/main.a01c531d.chunk.js"
+    "revision": "971de21e8a85a4bc2775",
+    "url": "/youtube-mood-player/static/js/main.9c4866d1.chunk.js"
   },
   {
     "revision": "745511b57dce26c92643",
