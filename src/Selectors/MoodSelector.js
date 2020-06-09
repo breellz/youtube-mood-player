@@ -1,5 +1,6 @@
 import React, { useContext, useState } from 'react';
-import MoodContext from '../context/Mood-context'
+import MoodContext from '../context/Mood-context';
+import apikeys from '../Api'
 
 
 const MoodSelector = () => {
@@ -10,7 +11,7 @@ const MoodSelector = () => {
     const Happy = () => {
         const videos = []
         setMood('happy')
-        fetch('https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=happy%20songs&key=AIzaSyB6cG0ooaQQN5Gwx2U38mOFddas8eZf4nc')
+        fetch(`https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=happy%20songs&key=${apikeys.apikey}`)
             .then(res=> res.json())
             .then(data=> data.items.forEach((item)=>{
                 videos.push(item)
