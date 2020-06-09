@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/Apikeys.js
+src/Api.js
 
 # testing
 /coverage
